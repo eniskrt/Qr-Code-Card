@@ -20,6 +20,7 @@ div.card{
     background-color: var(--color1);
     padding: 1rem;
     margin: 3rem;
+    margin-top: 13rem;
     border-radius: 20px;
     box-shadow: 3px;
 }
@@ -33,9 +34,10 @@ div.card-content{
     background-color: var(--color1);
     padding: 1rem;
 }
-div.card h2{
+div.card h1{
     color: var(--color4);
     font-weight: 700;
+    font-size: 1.5rem;
 }
 div.card p{
     color: var(--color3);
