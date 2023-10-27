@@ -15,7 +15,7 @@ body{
 }
 main.card{
     width: 290px;
-    height: 475px;
+    height: 470px;
     text-align: center;
     background-color: var(--color1);
     padding: 1rem;
