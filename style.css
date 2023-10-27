@@ -13,33 +13,34 @@ body{
     justify-content: center;
     align-items: center;
 }
-div.card{
+main.card{
     width: 300px;
     height: 500px;
     text-align: center;
     background-color: var(--color1);
     padding: 1rem;
     margin: 3rem;
-    margin-top: 13rem;
+    margin-top: 10rem;
     border-radius: 20px;
     box-shadow: 3px;
 }
-div.card img{
+main.card img{
     width: 100%;
     height: auto;
     border-radius: 10px;
     background-color: var(--color1);
 }
-div.card-content{
+main.card-content{
     background-color: var(--color1);
     padding: 1rem;
 }
-div.card h1{
+main.card h1{
     color: var(--color4);
     font-weight: 700;
     font-size: 1.5rem;
 }
-div.card p{
+main.card p{
     color: var(--color3);
     font-weight: 400;
+    font-size: 1.1rem;
 }
